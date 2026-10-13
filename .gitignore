@@ -1,0 +1,5 @@
+# Ignorar arquivos executáveis e binários gerados na compilação
+caixa
+*.out
+*.o
+*.exe
